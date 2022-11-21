@@ -1,4 +1,4 @@
-#! /bin/bash
+# Periodic Table
 
 Project was made for freecodecamp's build a periodic table database project.
 
